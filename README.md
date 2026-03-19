@@ -1,6 +1,10 @@
 <!-- ================= HEADER ================= -->
 ## ♾️ Sparsh Ranjan
 ##### `Data Analytics & ML | Python • SQL • Power BI | Business + Sports Analytics (F1)`
+## 🧠 About Me
+
+> ### `Working with data, models, and systems to understand patterns and inform decisions. Focused on structuring complexity into something measurable, reliable, and usable over time.`  
+
 ---
 
 <p align="center">
