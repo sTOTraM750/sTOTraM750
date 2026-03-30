@@ -87,7 +87,7 @@ Backend Systems      → APIs for intelligent workflows
 ---
 <!-- ================= STATS ================= -->
 ### 📊 Signal
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stotram750&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" height="170"/> <img src="https://streak-stats.demolab.com?user=stotram750&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stotram750&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff" height="150"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sTOTraM750&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" height="170"/> <img src="https://streak-stats.demolab.com?user=sTOTraM750&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sTOTraM750&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff" height="150"/> </p>
 
 ---
 
