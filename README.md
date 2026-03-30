@@ -17,38 +17,25 @@
 
 `Raw Data → Processing → Modeling → Insight → Decision`
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-  **Python** → Core layer for data processing, analytical systems, and machine learning pipelines  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) : **Python** → Core layer for data processing, analytical systems, and machine learning pipelines  
 
-- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
-  **Jupyter Notebook** → Experimental environment for iterative analysis, modeling, and idea validation  
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) : **Jupyter Notebook** → Experimental environment for iterative analysis, modeling, and idea validation  
 
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
-  **R** → Statistical computing and exploratory data analysis for deeper insights  
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) : **R** → Statistical computing and exploratory data analysis for deeper insights  
 
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-  **SQL** → Structured querying and transformation of relational data systems  
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) : **SQL** → Structured querying and transformation of relational data systems  
 
-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-  **Excel** → Rapid data exploration, business analysis, and quick prototyping  
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) : **Excel** → Rapid data exploration, business analysis, and quick prototyping  
 
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
-  **Tableau** → Visual analytics for translating data into decision-level insights  
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) : **Tableau** → Visual analytics for translating data into decision-level insights  
 
-- ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
-  **Power BI** → Business intelligence dashboards and performance tracking systems  
+- ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) : **Power BI** → Business intelligence dashboards and performance tracking systems  
 
-- ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
-  **FastAPI** → High-performance API layer for deploying data-driven and ML systems  
+- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange) : **Machine Learning** → Building predictive models and intelligent decision systems  
 
-- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange)  
-  **Machine Learning** → Building predictive models and intelligent decision systems  
+- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) : **VS Code** → Development environment for building, debugging, and structuring systems  
 
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-  **VS Code** → Development environment for building, debugging, and structuring systems  
-
-- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
-  **Windows** → Primary operating environment for development and execution workflows  
+- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) : **Windows** → Primary operating environment for development and execution workflows  
 
 ---
 
